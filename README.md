@@ -10,11 +10,11 @@ Sensors detect the temperature, humidity and soil moisture and show the sensor d
 ## How I built it
 First I built a circuit with:
 
-1x ESP32
-1x Breadboard 
-1x DHT22 Sensor 
-1x Yl-69 Soil Moisture Sensor and HC-38 Modul
-8x Jumper Cables
+1x ESP32  
+1x Breadboard  
+1x DHT22 Sensor  
+1x Yl-69 Soil Moisture Sensor and HC-38 Modul  
+8x Jumper Cables  
 
 Secondly, I connected the esp32 to the laptop using a micro usb cable and then uploaded the code. Then, in Arduino IoT Cloud, I linked the cloud variables I created with the variables in my code and connected to my Wi-Fi. Finally, I designed the dashboard and uploaded the code to ESP32.
 
